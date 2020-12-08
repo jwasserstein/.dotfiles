@@ -62,3 +62,6 @@ set noerrorbells visualbell t_vb=
 " Enable mouse support. You should avoid relying on this too much, but it can
 " sometimes be convenient.
 set mouse+=a
+
+" Change tab width to 4 spaces
+set tabstop=4

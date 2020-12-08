@@ -1,2 +1,2 @@
 autoload -U colors && colors
-PS1="%{$fg[red]%}%n%{$reset_color%}@%{$fg[green]%}%m %{$fg[cyan]%}%~ %{$reset_color%}%% "
+PS1="%F{red}%n%f@%F{green}%m%f %F{cyan}%~ %f% "
